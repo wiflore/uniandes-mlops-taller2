@@ -1,5 +1,6 @@
 # Autor: William Florez
 # Version: 1.0
+# Colaborador: wiflorez
 import dash
 from dash import dcc
 from dash import html
